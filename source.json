@@ -1,20 +1,20 @@
 {
-    "name":"JustSleightly's VPM Packages",
-    "id":"dev.sleightly.vpm-listing",
-    "url":"https://justsleightly.github.io/VPM-Package-Listing-Template/index.json",
+    "name":"JeTeeS' VPM Packages",
+    "id":"dev.jetees.vpm-listing",
+    "url":"https://JeTeeS.github.io/TES-VPM-Package-Listing/index.json",
     "author":{
-        "email":"just@sleightly.dev",
-        "name":"JustSleightly",
-        "url":"https://just.sleightly.dev"
+        "email":"jetees.vr@gmail.com",
+        "name":"JeTeeS",
+        "url":""
     },
     "description":"For use with the VRChat Creator Companion",
     "infoLink":{
-        "url":"https://discord.sleightly.dev",
+        "url":"https://discord.gg/ub2Q8C2bzF",
         "text":"Discord"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "JeTeeS/MemoryOptimizer"
     ],
     "packages":[]
 }
